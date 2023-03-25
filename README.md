@@ -1,2 +1,0 @@
-# first-exam
-test
